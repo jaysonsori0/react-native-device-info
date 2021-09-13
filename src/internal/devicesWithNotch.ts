@@ -87,7 +87,7 @@ const devicesWithNotch: NotchDevice[] = [
   },
   {
     brand: 'Huawei',
-    model: 'Honor Play',
+    model: 'COR-L29',
   },
   {
     brand: 'Huawei',
